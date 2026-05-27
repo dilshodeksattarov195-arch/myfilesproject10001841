@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpave",
+        "uuid": 2437484,
+        "checksum": "a43u4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
